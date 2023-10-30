@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GASZODA</h1>
+<h1 align="center">👋Hi, I'm GASZODA👋</h1>
 <h3 align="center">
     Junior developer from hungary. I interest the web technologies and game development.
 </h3>
